@@ -11,7 +11,15 @@
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidanemariamFikadu&show_icons=true&theme=radical)
+![My GitHub Stats]
+<p align="center">
+  <a href="#">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kidanemariamFikadu&show_icons=true&theme=radical" />
+  </a>
+  <a href="#">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kidanemariamFikadu&theme=radical" />
+  </a>
+</p>
 
 
 
@@ -28,7 +36,7 @@ You can click the Preview link to take a look at your changes.
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidanemariamFikadu" />
   </a>
   <a href="#">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kidanemariam" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kidanemariamFikadu&theme=radical" />
   </a>
 </p>
 
