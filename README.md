@@ -20,4 +20,19 @@ kidanemariamFikadu/kidanemariamFikadu is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-https://wakatime.com/badge/user/fb3ebb50-f041-496b-9a94-3f81bf0c6e54/project/393fca32-4e02-4cd9-a2f2-1701791b7315.svg
+---
+
+### :fire: Languages Statistics :
+<p align="center">
+  <a href="#">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidanemariamFikadu" />
+  </a>
+  <a href="#">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kidanemariam" />
+  </a>
+</p>
+
+</div>
+
+[![wakatime](https://wakatime.com/badge/user/fb3ebb50-f041-496b-9a94-3f81bf0c6e54.svg)](https://wakatime.com/@fb3ebb50-f041-496b-9a94-3f81bf0c6e54)
+---
