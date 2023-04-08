@@ -30,17 +30,17 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :fire: Languages Statistics :
+### :fire: Languages Statistics :  [![wakatime](https://wakatime.com/badge/user/fb3ebb50-f041-496b-9a94-3f81bf0c6e54/project/d3837b28-4cb7-47f5-a6fb-41ee55fcc597.svg)](https://wakatime.com/badge/user/fb3ebb50-f041-496b-9a94-3f81bf0c6e54/project/d3837b28-4cb7-47f5-a6fb-41ee55fcc597)
 <p align="center">
   <a href="#">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidanemariamFikadu" />
   </a>
-  <a href="#">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kidanemariamFikadu&theme=radical" />
+   <a href="#">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kidanemariam" />
   </a>
 </p>
 
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/fb3ebb50-f041-496b-9a94-3f81bf0c6e54.svg)](https://wakatime.com/@fb3ebb50-f041-496b-9a94-3f81bf0c6e54)
+
 ---
