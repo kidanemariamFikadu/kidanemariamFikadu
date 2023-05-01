@@ -11,7 +11,6 @@
 
 ## GitHub Stats
 
-![My GitHub Stats]
 <p align="center">
   <a href="#">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kidanemariamFikadu&show_icons=true&theme=radical" />
