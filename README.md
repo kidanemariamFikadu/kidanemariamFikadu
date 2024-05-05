@@ -13,9 +13,6 @@
 
 <p align="center">
   <a href="#">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kidanemariamFikadu&show_icons=true&theme=radical" />
-  </a>
-  <a href="#">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kidanemariamFikadu&theme=radical" />
   </a>
 </p>
