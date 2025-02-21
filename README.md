@@ -5,17 +5,9 @@
 - 🌱 I’m currently working on CRM system that has communication modules that will make it easy to call, text or chat with customers from one window. 
 - 💞️ I’m looking to collaborate on any platforms built to help SMEs.
 - 📫 kidan.services@gmail.com
-- [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/kidanemariam-fikadu/) [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/itskidan_/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidanemariam-fikadu)
 
 
-
-## GitHub Stats
-
-<p align="center">
-  <a href="#">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kidanemariamFikadu&theme=radical" />
-  </a>
-</p>
 
 
 
